@@ -1,0 +1,184 @@
+{
+	"CXS": {
+		"label": "Nxchain",
+		"bridge": "0x1cf5bF387d9a8B39EE4fb47c867bA18Fd7BF667f",
+		"chainId": 787,
+		"confirmations": 1,
+		"blocktime": 1000,
+		"rpc": "",
+		"explorer": "https://nxchainscan.com/",
+		"service": "bridge",
+		"erc20": "ERC20",
+		"tokens": {
+			"CXS": {
+				"label": "Pegged CXS",
+				"contract": "",
+				"decimals": 18,
+				"pegging": true
+			},
+			"BUSD": {
+				"label": "Pegged BUSD",
+				"contract": "0x064D582f778F695695B63a6460ebA1728d0b1b81",
+				"decimals": 18,
+				"pegging": true
+			},
+			"NEXTEP": {
+				"label": "Pegged NEXTEP",
+				"contract": "0x47843061bAe41AE029C3e62Cb2c718BbD17Dce87",
+				"decimals": 18,
+				"pegging": true
+			},
+			"USDT": {
+				"label": "Pegged USDT",
+				"contract": "0x900D8FD770B9BdF419Add471f659C6a2051a18e4",
+				"decimals": 18,
+				"pegging": true
+			},
+			"SHIB": {
+				"label": "Pegged SHIB",
+				"contract": "0xCfeE6c85f03196340293BA3e8E612eEba58b5169",
+				"decimals": 18,
+				"pegging": true
+			},
+			"DOGE": {
+				"label": "Pegged DOGE",
+				"contract": "0xA487cBa0139665935c60515d3d8a250A10C975FF",
+				"decimals": 18,
+				"pegging": true
+			},
+			"BTC": {
+				"label": "Pegged BTC",
+				"contract": "0x1A31E0cBe217e11BD4494d848b9f51bac2db9FB8",
+				"decimals": 18,
+				"pegging": true
+			},
+			"ETH": {
+				"label": "Pegged ETH",
+				"contract": "0xbe3a4013F843D07DA14B60832c2DbD2d36d90528",
+				"decimals": 18,
+				"pegging": true
+			},
+			"DAI": {
+				"label": "Pegged DAI",
+				"contract": "0xB7CBc5d7aec9aE21ED0f803D708171F83249A81E",
+				"decimals": 18,
+				"pegging": true
+			},
+			"BNB": {
+				"label": "Pegged BNB",
+				"contract": "0xB1F3b3C78bF9133D94D077098655B20B5c0d3236",
+				"decimals": 18,
+				"pegging": true
+			},
+			"XRP": {
+				"label": "Pegged XRP",
+				"contract": "0x019535a17162C4dcD35fBE0648cCF56d81ce643b",
+				"decimals": 18,
+				"pegging": true
+			},
+			"MATIC": {
+				"label": "Pegged MATIC",
+				"contract": "0x4D317C3902CD5670364c8E2D30DF3627B4cB3775",
+				"decimals": 18,
+				"pegging": true
+			},
+			"BABYDOGE": {
+				"label": "Pegged BABYDOGE",
+				"contract": "0x6756D85C50CbAF5328e56ce0eA589A98DaDf3c6D",
+				"decimals": 18,
+				"pegging": true
+			}
+		}
+	},
+	"BNB": {
+		"label": "BNBchain",
+		"bridge": "0xC1a4375462bEb257E5bB3B5Fba702BB8948B4816",
+		"chainId": 56,
+		"confirmations": 12,
+		"blocktime": 15000,
+		"rpc": "https://bsc-dataseed.binance.org/",
+		"explorer": "https://bscscan.com/",
+		"service": "https://binance.com",
+		"erc20": "BEP20",
+		"tokens": {
+			"CXS": {
+				"label": "Pegged CXS",
+				"contract": "",
+				"decimals": 18,
+				"pegging": true
+			},
+			"BUSD": {
+				"label": "Pegged BUSD",
+				"contract": "",
+				"decimals": 18,
+				"pegging": true
+			},
+			"NEXTEP": {
+				"label": "Pegged NEXTEP",
+				"contract": "",
+				"decimals": 18,
+				"pegging": true
+			},
+			"USDT": {
+				"label": "Pegged USDT",
+				"contract": "0x55d398326f99059fF775485246999027B3197955",
+				"decimals": 18,
+				"pegging": true
+			},
+			"SHIB": {
+				"label": "Pegged SHIB",
+				"contract": "",
+				"decimals": 18,
+				"pegging": true
+			},
+			"DOGE": {
+				"label": "Pegged DOGE",
+				"contract": "",
+				"decimals": 18,
+				"pegging": true
+			},
+			"BTC": {
+				"label": "Pegged BTC",
+				"contract": "",
+				"decimals": 18,
+				"pegging": true
+			},
+			"ETH": {
+				"label": "Pegged ETH",
+				"contract": "",
+				"decimals": 18,
+				"pegging": true
+			},
+			"DAI": {
+				"label": "Pegged DAI",
+				"contract": "",
+				"decimals": 18,
+				"pegging": true
+			},
+			"BNB": {
+				"label": "Pegged BNB",
+				"contract": "",
+				"decimals": 18,
+				"pegging": true
+			},
+			"XRP": {
+				"label": "Pegged XRP",
+				"contract": "",
+				"decimals": 18,
+				"pegging": true
+			},
+			"MATIC": {
+				"label": "Pegged MATIC",
+				"contract": "",
+				"decimals": 18,
+				"pegging": true
+			},
+			"BABYDOGE": {
+				"label": "Pegged BABYDOGE",
+				"contract": "",
+				"decimals": 18,
+				"pegging": true
+			}
+		}
+	}
+}

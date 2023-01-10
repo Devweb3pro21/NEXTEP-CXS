@@ -1,0 +1,184 @@
+{
+	"CXS": {
+		"label": "Nxchain",
+		"bridge": "0xB37772C92253ae8a14eFF49A6ba03A9e817b1A84",
+		"chainId": 787,
+		"confirmations": 1,
+		"blocktime": 1000,
+		"rpc": "https://testnet.nxchainscan.com:4444/",
+		"explorer": "https://testnet.nxchainscan.com",
+		"service": "bridge",
+		"erc20": "BEP20",
+		"tokens": {
+			"BUSD": {
+				"label": "Pegged BUSD",
+				"contract": "0xAc6ABeBE2fF321D3a2Fa338b62d1d53181559AbC",
+				"decimals": 18,
+				"pegging": true
+			},
+			"NEXTEP": {
+				"label": "Pegged NEXTEP",
+				"contract": "0x8762B44FD7Ef37da40bc2c5b2c1E4f2448AE493D",
+				"decimals": 18,
+				"pegging": true
+			},
+			"USDT": {
+				"label": "Pegged USDT",
+				"contract": "0x4B8EC78c345fD01d282723E2B6082155d5d69185",
+				"decimals": 18,
+				"pegging": true
+			},
+			"SHIB": {
+				"label": "Pegged SHIB",
+				"contract": "0x3D2DFAE3B9ce8bE5d151c6a88f54B9ad30543cAF",
+				"decimals": 18,
+				"pegging": true
+			},
+			"DOGE": {
+				"label": "Pegged DOGE",
+				"contract": "0xe251B480efb7959E3D093d225C4F708c58fe718F",
+				"decimals": 18,
+				"pegging": true
+			},
+			"BTC": {
+				"label": "Pegged BTC",
+				"contract": "0xD1777403fA0F62B29DE6A47F52F354400c163525",
+				"decimals": 18,
+				"pegging": true
+			},
+			"ETH": {
+				"label": "Pegged ETH",
+				"contract": "0x2C44015930057a698Ea3e7C2D85f9F656C73B334",
+				"decimals": 18,
+				"pegging": true
+			},
+			"DAI": {
+				"label": "Pegged DAI",
+				"contract": "0x90488F6fE33cf8FED8023AcabC69841B5fB42bCf",
+				"decimals": 18,
+				"pegging": true
+			},
+			"BNB": {
+				"label": "Pegged BNB",
+				"contract": "0x93F5355d21d99F21a05a1685382ffD4615E35d16",
+				"decimals": 18,
+				"pegging": true
+			},
+			"XRP": {
+				"label": "Pegged XRP",
+				"contract": "0x103723695327ea52641f26B4f833BEc3051f1AAD",
+				"decimals": 18,
+				"pegging": true
+			},
+			"MATIC": {
+				"label": "Pegged MATIC",
+				"contract": "0xdf8C01572eBb5Ad3217FE4f614D9C71D4ef82638",
+				"decimals": 18,
+				"pegging": true
+			},
+			"BABYDOGE": {
+				"label": "Pegged BABYDOGE",
+				"contract": "0xf046c8B76F3dF9646Ca61CA4823E5457346B8593",
+				"decimals": 18,
+				"pegging": true
+			}
+		}
+	},
+	"BNB": {
+		"label": "Binance",
+		"bridge": "0x48a935CC856B21A0519a52f8Cac126A63e18C68F",
+		"chainId": 97,
+		"confirmations": 12,
+		"blocktime": 15000,
+		"rpc": "https://data-seed-prebsc-1-s3.binance.org:8545",
+		"explorer": "https://testnet.bscscan.com/",
+		"service": "https://binance.com",
+		"erc20": "BEP20",
+		"tokens": {
+			"CXS": {
+				"label": "Nxchain Coin",
+				"contract": "0x5d08F55ffD670d9133e5315a6FB14004Aa510636",
+				"decimals": 18,
+				"pegging": true,
+				"fake": true
+			},
+			"BUSD": {
+				"label": "Binance USD",
+				"contract": "0xCB757a1FC12044fac494948Ef6187CF9c563da94",
+				"decimals": 18,
+				"pegging": true,
+				"fake": true
+			},
+			"NEXTEP": {
+				"label": "NEXTEP",
+				"contract": "0x163D0760E11A8105e6E0bE882b8e08764db1B010",
+				"decimals": 18,
+				"pegging": true,
+				"fake": true
+			},
+			"USDT": {
+				"label": "Tether USD",
+				"contract": "0x6B64A516D8a0bE80dD4814f075BF899e53d8a738",
+				"decimals": 18,
+				"pegging": true,
+				"fake": true
+			},
+			"SHIB": {
+				"label": "Shiba Inu",
+				"contract": "0x520Df0c8141A103C5735C8B63d1C6e8fC9708EE7",
+				"decimals": 18,
+				"pegging": true,
+				"fake": true
+			},
+			"DOGE": {
+				"label": "Dogecoin",
+				"contract": "0x102fBB9786c2Bc01f22cdA09FeF7b42A7569c527",
+				"decimals": 8,
+				"pegging": true,
+				"fake": true
+			},
+			"BTC": {
+				"label": "Wrapped Bitcoin",
+				"contract": "0xf10FB418aD4df581bB4aBa77ddf52c9F8cBaD8b7",
+				"decimals": 18,
+				"pegging": true,
+				"fake": true
+			},
+			"ETH": {
+				"label": "Wrapped Ether",
+				"contract": "0xB37772C92253ae8a14eFF49A6ba03A9e817b1A84",
+				"decimals": 18,
+				"pegging": true,
+				"fake": true
+			},
+			"DAI": {
+				"label": "DAI",
+				"contract": "0x93F5355d21d99F21a05a1685382ffD4615E35d16",
+				"decimals": 18,
+				"pegging": true,
+				"fake": true
+			},
+			"XRP": {
+				"label": "XRP",
+				"contract": "0xAc6ABeBE2fF321D3a2Fa338b62d1d53181559AbC",
+				"decimals": 18,
+				"pegging": true,
+				"fake": true
+			},
+			"MATIC": {
+				"label": "Wrapped Matic",
+				"contract": "0x8762B44FD7Ef37da40bc2c5b2c1E4f2448AE493D",
+				"decimals": 18,
+				"pegging": true,
+				"fake": true
+			},
+			"BABYDOGE": {
+				"label": "Baby Doge Coin",
+				"contract": "0x4B8EC78c345fD01d282723E2B6082155d5d69185",
+				"decimals": 9,
+				"pegging": true,
+				"fake": true
+			}
+		}
+	}
+}
